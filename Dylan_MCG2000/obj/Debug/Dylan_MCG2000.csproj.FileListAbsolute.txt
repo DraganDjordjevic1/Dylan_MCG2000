@@ -1,0 +1,15 @@
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\bin\Debug\Dylan_MCG2000.exe.config
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\bin\Debug\Dylan_MCG2000.exe
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\bin\Debug\Dylan_MCG2000.pdb
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.csprojResolveAssemblyReference.cache
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\MainWindow.g.cs
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\App.g.cs
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000_MarkupCompile.cache
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000_MarkupCompile.lref
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\MainWindow.baml
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.g.resources
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.Properties.Resources.resources
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.csproj.GenerateResource.Cache
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.csproj.CoreCompileInputs.cache
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.exe
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Dylan_MCG2000\obj\Debug\Dylan_MCG2000.pdb

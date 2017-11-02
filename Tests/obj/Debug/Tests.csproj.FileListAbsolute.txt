@@ -1,0 +1,2 @@
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+H:\Tim Baird Class Sem2\Dylan Work\Dylan_MCG2000\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
